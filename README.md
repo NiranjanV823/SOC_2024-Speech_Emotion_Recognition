@@ -12,3 +12,6 @@ Three models have been made
 2. Bidirectional LSTM
 3. GRU
 
+
+main.ipynb ---> code 
+
